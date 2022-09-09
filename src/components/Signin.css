@@ -1,0 +1,10 @@
+.signin-container{
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+
+}
+.mycard{
+    display: flex;
+    justify-content: center;
+}
